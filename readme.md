@@ -12,7 +12,7 @@
 
 ## For Chrome
 
-* Get [Stylish](http://code.grid.in.th/) extension
+* Get [Stylish](https://chrome.google.com/webstore/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe) extension
 * Add a new user CSS
 * Copy/Paste the stylesheet like in the following picture
 

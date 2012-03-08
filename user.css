@@ -93,3 +93,4 @@
     background: rgba(114,114,114,1)!important;
 }
 #wrap{margin-top:-2px!important;}
+body#user-profile #nav li#t-profile a, body#shots #nav li#t-shots a, body#players #nav li#t-players a, body#explore #nav li#t-explore a, body#jobs #nav li#t-jobs a, body#upld #nav li#t-upld a, body#about #nav li#t-about a, body#following li#t-following a, body#incoming-activity li#t-activity a, body#signup #nav li#t-signup a {font-weight:normal!important;}

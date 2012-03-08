@@ -1,7 +1,6 @@
 # Dribbble redesign User CSS
-*by Nathan Walker - handcoded by Victor Coulon*
+**by Nathan Walker ([Dribbble shot](http://dribbble.com/shots/460736-Dribbble-Redesign)) - handcoded by Victor Coulon**
 
-[Dribbble shot](http://dribbble.com/shots/460736-Dribbble-Redesign)
 
 ## For Safari
 
